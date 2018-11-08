@@ -11,7 +11,6 @@ Trabajo Final de Arquitetura de Hardware | Universidad EIA
 * arduino | [https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)
 
 ## Uso
----
  1. Primero asegaurate de cambiar el puerto serial en el archivo __processingFuncional.pde__.
  
  ```
@@ -19,11 +18,16 @@ Trabajo Final de Arquitetura de Hardware | Universidad EIA
  //Make sure the COM port is correct
  myPort = new Serial(this, "<< el puerto serial >>", 9600);
  ```
-  ..__( para MacOS es /dev/tty.usbmodem14101 & para Windows es COM3 )__
+  >( para MacOS es /dev/tty.usbmodem14101 & para Windows es COM3 )
+  
+ --- 
  
  2.  Suba el Sketch __"preubaFuncionalFinal.ino"__  a su Arduino.
  
+ ----
+ 
  3.  Por ultimo, corra el programa __"processingFuncional.pde"__ en el IDE de Processing.  
+ ---
 
 ## Conexion de Hardware 
 <img src="configuration.png" width="500" height ="500">
