@@ -12,7 +12,7 @@ Trabajo Final de Arquitetura de Hardware | Universidad EIA
 
 
 ## Conexion de Hardware 
-![Alt description](https://www.electronicwings.com/public/images/user_images/images/Arduino/LCD/LCD_Interfacing_Diagram-8bit.png)
+![Alt description](configuration.png)
 
 ## Recursos
 
