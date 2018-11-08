@@ -1,5 +1,5 @@
  # Trabajo Final de Arquitetura de Hardware : 
-Trabajo Final de Arquitetura de Hardware | Universidad EIA ![logo eia](/assets/.png)
+Trabajo Final de Arquitetura de Hardware | Universidad EIA ![logo eia](/assets/logo-eia-icon.png)
 
 ## Requerimientos
 * processing | [https://processing.org/download/](https://processing.org/download/)
