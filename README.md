@@ -41,6 +41,6 @@ Trabajo Final de Arquitetura de Hardware | Universidad EIA
 
 ### Miembros
 *  Jeisson Barrera| jbarrera094@gmail.com
-*  Kevin Alexander Ibarra | 
+*  Kevin Alexander Ibarra | kevinibarra123@hotmail.com 
 *  Mateo Zuluaga Loaiza |zulo30@gmail.com
 
