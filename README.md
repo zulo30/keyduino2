@@ -2,13 +2,13 @@
 Trabajo Final de Arquitetura de Hardware | Universidad EIA
 
 ## Requerimientos
-* processing | [https://nodejs.org/es/](https://nodejs.org/es/)
-* arduino  |  [https://www.npmjs.com](https://www.npmjs.com)
+* processing | [https://processing.org/download/](https://processing.org/download/)
+* arduino  |  [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)
 
 
 ## API
-* iohook | [https://wilixlead.github.io/iohook](https://wilixlead.github.io/iohook)
-* serialport | [https://serialport.io/docs/api-stream](https://serialport.io/docs/api-stream)
+* processing | [https://processing.org/reference/](https://processing.org/reference/)
+* arduino | [https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)
 
 
 ## Conexion de Hardware 
@@ -16,9 +16,7 @@ Trabajo Final de Arquitetura de Hardware | Universidad EIA
 
 ## Recursos
 
-* https://github.com/node-serialport/node-serialport/issues/267
-
-* https://arduino.stackexchange.com/questions/18949/serial-communication-to-arduino-with-node-js
+* https://arduinobasics.blogspot.com/2012/05/mouse-controlling-arduino-leds.html
 
 
 
