@@ -12,7 +12,7 @@ Trabajo Final de Arquitetura de Hardware | Universidad EIA
 
 
 ## Conexion de Hardware 
-![Alt description](configuration.png)
+![Alt description](configuration.png =250x250)
 
 ## Recursos
 
