@@ -11,7 +11,7 @@ Trabajo Final de Arquitetura de Hardware | Universidad EIA
 * arduino | [https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)
 
 ## Uso
- 1. Primero asegaurate de cambiar el puerto serial en el archivo __processingFuncional.pde__.
+ 1. Primero asegurate de cambiar el puerto serial en el archivo __processingFuncional.pde__.
  
  ```
  //Open the serial port for communication with the Arduino
